@@ -1,1 +1,1 @@
-/home/proposer-commitment-network-dev/sidecar/web3signer/copying-validator-keystores/target/debug/copying-validator-keystores: /home/proposer-commitment-network-dev/sidecar/web3signer/copying-validator-keystores/src/main.rs
+/home/copying-validator-keystores/target/debug/copying-validator-keystores: /home/copying-validator-keystores/src/main.rs
